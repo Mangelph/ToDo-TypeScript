@@ -1,0 +1,25 @@
+*{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+  padding: 0px;
+}
+
+#list {
+    list-style: none;
+    padding: 0;
+}
+
+#new-task-form{
+  
+}
+
+#new-task-title {
+  width: 50%;
+}
+
+#new-task-button{
+  width: 20%;
+}
